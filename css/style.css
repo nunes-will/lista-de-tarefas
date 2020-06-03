@@ -1,6 +1,6 @@
 .check-list {
     margin: 0;
-    padding-left: 1.2rem;
+    padding-left: 0rem;
   }
   
   .check-list li {
@@ -41,7 +41,7 @@
   html {
     -webkit-font-smoothing: antialiased;
     font-family: "Helvetica Neue", sans-serif;
-    font-size: 85.5%;
+    font-size: 80.5%;
   }
   
   body {
