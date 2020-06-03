@@ -2,4 +2,4 @@ Web app created with HTML, CSS and Javascript to track record of tasks to be don
 
 App Image:
 
-![](imgs/app_img.png)
+![](imgs/app_img.PNG)
