@@ -1,1 +1,2 @@
-"# lista-de-tarefas" 
+Web app created with HTML, CSS and Javascript to track record of tasks to be done(to-do list)
+
